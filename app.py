@@ -1,3 +1,3 @@
-name = 'James Rooney. I like to party.'
+name = 'James Rooney. I live near Bundoran'
 
 print(f'My name is {name}')
